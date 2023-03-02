@@ -1,0 +1,40 @@
+#myCanvas:hover{
+    cursor: pointer;
+    transform: scaleX(0.9);
+    background-color: tomato;
+    transition: 3s;
+}
+
+#myCanva:hover{
+    cursor: pointer;
+    background-color: lime;
+    transform: translate(3px, 5px);
+    transition: 1s;
+}
+
+#Canvas:hover{
+    cursor: pointer;
+    background-color: royalblue;
+    box-shadow: 5px 5px 10px blue;
+    transition: 2s;
+}
+
+#Canva:hover{
+    cursor: pointer;
+    background-color: violet;
+    transform: rotate(-10deg);
+    transition: 2s;
+    transition-delay: 0.5s;
+}
+
+#primerapagina{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 0 0 10px, 0 0px 5px;
+}
+
+p{
+    margin-top: 0px;
+}
